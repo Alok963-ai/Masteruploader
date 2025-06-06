@@ -1,6 +1,6 @@
 
 {
-    "name": " 𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎",
+    "name": " kaka bots",
     "description": "Download videos from various websites using this Telegram bot.",
     "logo": "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
     "keywords": [
@@ -13,19 +13,19 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "26572696",
+            "description": "20288951",
             "required": true
         },
         "API_HASH": {
-            "description": "67a8947a3e1b15f9ef9684286baa34cb",
+            "description": "e8cb5fb7a475b5f5eb3b0ef0e6ca03a8",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your Telegram Bot Token.",
+            "description": "7826034962:AAEOJQ-iU0rRrzhrzLv2Ehr3vu0aIzPwhqk.",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "7903596276, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "description": "7833842279, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
             "required": true
         }
     },
